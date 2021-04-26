@@ -11,6 +11,31 @@
                 "catering": true,
                 "music": true
             }
-        }
+        },
+        {
+            "id": 2,
+            "category": "Cycling",
+            "title": "Cycling tours",
+            "description": "Cycling desc",
+            "location": "Nature",
+            "friends": 3,
+            "extras": {
+                "catering": false,
+                "music": true
+            }
+        }, 
+        {
+            "id": 3,
+            "category": "Tourism",
+            "title": "Places of interest",
+            "description": "Countries visiting",
+            "location": "World",
+            "friends": 1,
+            "extras": {
+                "catering": true,
+                "music": true
+            }
+        } 
+        
     ]
 }
