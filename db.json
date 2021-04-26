@@ -1,0 +1,16 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "category": "Books",
+            "title": "Reading discussions",
+            "description": "This is an event desc",
+            "location": "Zoom",
+            "friends": 1,
+            "extras": {
+                "catering": true,
+                "music": true
+            }
+        }
+    ]
+}
